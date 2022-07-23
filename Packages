@@ -1,0 +1,327 @@
+Package: com.zachary7829.bypasszoomdetection
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.bypasszoomdetection_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5250
+MD5sum: be02ee63810f4586c3dc1f94f16f2545
+SHA1: cabe7bd37b36e6766f506740c983f9d5031cdbc0
+SHA256: 55413639d16201f8bc631ec7c64b90edcbadd53c9a234625e60eeb87e80fc677
+Description: Bypass Zoom's jailbreak detection
+Name: BypassZoomDetection
+Author: Snoolie K
+
+Package: com.zachary7829.hidemyvpn
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.hidemyvpn_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4432
+MD5sum: 3f14dd10ecbd2c6b673ff14eb2387fcc
+SHA1: 3c51fc7e354dcc091c8db748b818cb5445edc528
+SHA256: b054f2e49a4fc38192c4f8a5e332b98c1e86e739e4ff57865d039a4a08d4fa11
+Description: Don't show VPN in Status Bar
+Name: HideMyVPN
+Author: Snoolie K
+
+Package: com.zachary7829.nopendingrequests
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.nopendingrequests_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4444
+MD5sum: 77b9d43c5ebed21f69dcc66b8ad2152f
+SHA1: 8fff8371247af6d6eee350557a1606a56d9cbe57
+SHA256: b054f2e49a4fc38192c4f8a5e332b98c1e86e739e4ff57865d039a4a08d4fa11
+Description: Hide pending DM requests on insta
+Name: NoPendingRequests
+Author: Snoolie K
+
+Package: com.zachary7829.nopromotedtweets
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.nopromotedtweets_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4694
+MD5sum: 61a751ad74ae3efb271e55c18760f9a2
+SHA1: 284ec799aba65086b4dacc8e092ebeb79e31376c
+SHA256: a22e866a5f657b93940301929d43f58664abac9109e43a66e3125ab535b7a8ef
+Description: Make Promoted Tweets fuck off
+Name: NoPromotedTweets
+Author: Snoolie K
+
+Package: com.zachary7829.noytads
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.noytads_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4738
+MD5sum: 26fe32d597ddac75ae1d4183892b0361
+SHA1: cb14dac2cdb7ff1f90a961143ac872aef4cd19bb
+SHA256: 1749a2b1aa7aef6b5a5358a2b430490e87e1deaa44c2450af2d8135cf1e4bb87
+Description: No Ads in YouTube
+Name: NoYTAds
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.2.2_iphoneos-arm.deb
+Size: 14588
+MD5sum: 0003d0ca90d444559c8ceb5a3c6bc953
+SHA1: 9346b8c0266a7d11bb93c2d8e6e42541edcd31f7
+SHA256: 276014192a9b9f66b2f8928fa92b51cea9feddcb380594e2529dad389a6f659d
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.2.1_iphoneos-arm.deb
+Size: 15986
+MD5sum: f34537274494e615e7ac32a4f8b03adc
+SHA1: 7b5b12ae5bef69860c2364ffb495b79c9970feae
+SHA256: a42e208ebdba071b6edce5f3d6c4af69c7127f2a0d389c5f9b10a4e25a3c8d3c
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.2.0_iphoneos-arm.deb
+Size: 10956
+MD5sum: aee52dce7e71fdfdf727e9cc3a209d70
+SHA1: 5ce31716e90dee9309bc77a19b57ba550ba6e09f
+SHA256: 0c9469f165413ae6874b4c830918e8f94dbee8311ecb20f35b183682599415db
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common, firmware (<= 14.8.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.1.2_iphoneos-arm.deb
+Size: 7692
+MD5sum: 1cacce5beca6019ff82442dfd2663598
+SHA1: 64e64a0a823b654e93cf1684f49030c32e0ea491
+SHA256: ac2180e23588c9651cdddb931fa26be458ab709199693846f36ff1e7890188c0
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.1.1_iphoneos-arm.deb
+Size: 7586
+MD5sum: a7f69f9b2228011b63fe8b80d79fba3c
+SHA1: 55c20ea3c185d165204ea822d435280eefa61c4d
+SHA256: 9d8f13ad25a725eedf2a458fd27a2258c3110f4fb7d2dc164b9a85ea476c2155
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.1.0_iphoneos-arm.deb
+Size: 7316
+MD5sum: 9feb9afd96de9f5a4aeb6e197516527e
+SHA1: ecfddc967cf4afadc04806b45a17296fd11d6cf5
+SHA256: a58c745d670d5f5442a4669f7f92f7bbedaf65d997ce5813bd43896e1bf6664c
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.pastcuts
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3934
+MD5sum: d1ed668f2e931594fcb558f486f662a4
+SHA1: b88469d645ba3097a5cb4dd1d5b1e376d9f53d0e
+SHA256: 4d90c316000f191e8897e8790a6678ba3b9e87f14372dc37381dfeb4e7e5de79
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: Snoolie K
+
+Package: com.zachary7829.returngetvariable
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.returngetvariable_1.0.1_iphoneos-arm.deb
+Size: 3370
+MD5sum: 085839e2f0c04829d9a22bfd2c022dc7
+SHA1: 61e69f2cd51f8dc0b280cc0290411640f734b674
+SHA256: 3018efa6db4e4516789a6e584fa1afade73ab53ae1c12f3e94e74c320f96b008
+Description: Unhide the Get Variable action on iOS 13.0-14.4.2
+Name: ReturnGetVariable
+Author: Snoolie K
+
+Package: com.zachary7829.returngetvariable
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.returngetvariable_1.0.0_iphoneos-arm.deb
+Size: 2934
+MD5sum: e36a9fb48057be5346887bed9eb60ec4
+SHA1: 0e33c3a1473b1a40733f4258fddc6ee663ae7895
+SHA256: aed24332b60be9f92bad3e5e458244f15edd302902d3511dea9a46171a9018c7
+Description: Unhide the Get Variable action on iOS 13.0-14.4.2
+Name: ReturnGetVariable
+Author: Snoolie K
+
+Package: com.zachary7829.stopshortcutsuntitledprompt
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.stopshortcutsuntitledprompt_1.0.0_iphoneos-arm.deb
+Size: 3502
+MD5sum: 6e0c4e43daa0f520db84f715f80065dd
+SHA1: ab2ef1a8283fe36f4409f4dc77efe1059dd0cb86
+SHA256: e59304a8b9a90f5fb0511922dd66cd996108e884556fc4c067edff53d3cc8f3a
+Description: Stop being forced to name shortcuts
+Name: StopShortcutsUntitledPrompt
+Author: Snoolie K
+
+Package: com.zachary7829.springlicious
+Version: 1.1
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.springlicious_1.1_iphoneos-arm.deb
+Size: 15038
+MD5sum: c04adfd556e2b7a623d45c2e32e84e2a
+SHA1: 3d1201dd5419a6c5cb849329629b3cd20b988138
+SHA256: aaf0c461ef37eed9018e8cf6e6667b39919dd4301cb1ef1400fe9f4d1cfb95cf
+Description: FOSS SpringBoard Customization Tweak
+Name: Springlicious
+Author: Snoolie K
+
+Package: com.zachary7829.springlicious
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.springlicious_1.0.1_iphoneos-arm.deb
+Size: 12576
+MD5sum: ba0595a471dae806c6eced26fa20bbdd
+SHA1: 26e709416efbd13558a8294c90b75a55c165cacf
+SHA256: 659c28a3d96485a0a6a03b479d74b82b1528a88db5518dbab55a5f787bb9481e
+Description: FOSS SpringBoard Customization Tweak
+Name: Springlicious
+Author: Snoolie K
+
+Package: com.zachary7829.springlicious
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.springlicious_1.0.0_iphoneos-arm.deb
+Size: 14844
+MD5sum: 84f25253a604e9d9a40ac296e739b6f5
+SHA1: 605247754e9b8ec278eba58920a1907eb73d0b0c
+SHA256: 1761b584bef317610150299310388743d5378b89af5b0da4292c61443ec1490d
+Description: FOSS SpringBoard Customization Tweak
+Name: Springlicious
+Author: Snoolie K
+
+Package: com.zachary7829.importcuts
+Version: 1.0
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.importcuts_1.0_iphoneos-arm.deb
+Size: 7688
+MD5sum: 24cbf67f5704a17fe0b96e376ae11cfe
+SHA1: 862a5040690283f9caa135d1d55e91806ff775dd
+SHA256: 9ae5c898c45034086bcec0baffe0b11467a98b6ce7ecaaa29e45521cf57bf087
+Description: Import .shortcut files, even when unjailbroken
+Name: Importcuts
+Author: Snoolie K
+
+Package: com.zachary7829.buttermilk
+Version: 0.0.3~2
+Section: Tweaks
+Maintainer: Snoolie K
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/buttermilk-0.0.3~2.deb
+Size: 14520
+MD5sum: 12db8eb3def33f7f9dc2fdd951c9685b
+SHA1: 6a94f08c1e996047ce5ee3b2ee4d0b20a697637e
+SHA256: 36dc18db423f779d1d42b1e203a156465524aaf231552c754e6204866c425b79
+Description: Poorly written butter2short/short2butter tool
+Name: Buttermilk
+Author: Snoolie K
+
+Package: com.0xilis.pastcuts12
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Snoolie K
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 8.0)
+Conflicts: firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.0xilis.pastcuts12_1.0.0_iphoneos-arm.deb
+Size: 36518
+MD5sum: c5ebdf02ae402fbc1de4f32f8ceea586
+SHA1: 866200dc99c881f468ebe946053015ebef5ad17e
+SHA256: 79a3265561fd3eaae7189c0dc22856d7298ca51c8ced1fe6300e14e87a750eae
+Description: Import iOS 16/15/14/13 shortcuts on iOS 12
+Name: Pastcuts12
+Author: Snoolie K

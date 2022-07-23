@@ -1,0 +1,46 @@
+Origin: 0xilis
+Label: 0xilis
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repository for my tweaks
+MD5Sum:
+ d8333032cc182e949a667d6eb5d8ef5e 11414 Packages
+ 46fe10c590fc1350ffed8d7b1d361845 3124 Packages.bz2
+ 15c6d51edbc4d901366671ebe80358d4 2852 Packages.xz
+ e7ec21d12e3a50dff57c03623cb87fdb 2792 Packages.zst
+SHA1:
+ c309ffbd9340f5225ade62e294b6d09ae2f87983 11414 Packages
+ 912c20f719a134dc22ae03e37368d6a0b4e98b70 3124 Packages.bz2
+ 6f244db677c5187adf6f89c9e634c4037fcbe630 2852 Packages.xz
+ bd0a18a8808bce68e73765f52f453643e5210a41 2792 Packages.zst
+SHA256:
+ 8e3b6d3117d02ae88d4b210e6e4417bf76059d6641b036e8697c24eeeb1cbc45 11414 Packages
+ 97058bd9248998e59d14ebf98114bfbec4a9894c4758002ffe2ebf0266341696 3124 Packages.bz2
+ 20bbb392f7fe39fc73e4f226a4eb1af8732528d39f6f13d27d1014e58e83dbf0 2852 Packages.xz
+ 2fda80aa05c019a978d541b4c27ac58371b9c30376cd48e4ca850344e73252c4 2792 Packages.zst
+Origin: 0xilis's repo
+Label: 0xilis's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repository for my tweaks
+MD5Sum:
+ 4d932b93767408421a304f4711774526 11330 Packages
+ 29d999222188ca848302bf88c9bdc798 3137 Packages.bz2
+ 44f505b0c71fc1cba8543e5fccce4fb8 2852 Packages.xz
+ 129252817f0135208278235dcdc3140b 2804 Packages.zst
+SHA1:
+ a7598e91af1aa9ce4e4669e7fc7db30ec76b635e 11330 Packages
+ 706667ab5af4a10c76518e4750898a4a8dd43281 3137 Packages.bz2
+ fa3cef68c15e7f3ed9f0f3208a404ca879ca4ee7 2852 Packages.xz
+ 24e3f4ec6d325e2c05f72e27e7c20aacaf1c0bc4 2804 Packages.zst
+SHA256:
+ 6f2030c18f5d3a85042268a4d88d2941b4d89d99c94ab8d03240347bdbd65e20 11330 Packages
+ 5fedd8664b5517e50ce5566bc7bcc87049875b47285fd0741fbf185d6abedb41 3137 Packages.bz2
+ 0e0bb418ba4f5f82944f3a8bc7aca0fd3022a830eed5f3864deb24b07a747568 2852 Packages.xz
+ 1b8e04e5b3135a7491205e34c6efbdce70d44fa5088ff4c637cd84bfa5b2f419 2804 Packages.zst
