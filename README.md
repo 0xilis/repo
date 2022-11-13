@@ -1,15 +1,29 @@
-# 0xilis's Tweak Repository
+# Snoolie's Tweak Repository
 My repository for my tweaks
 
-**Patreon:** [https://patreon.com/zachary7829](https://patreon.com/zachary7829)
+Check out Badger on Havoc!
 
 # Tweaks:
+
+## Safecuts
+
+Fix iOS 15.0-15.3.1 shortcuts hide action vuln.
+
+**Source:** [https://github.com/0xilis/Safecuts](https://github.com/0xilis/Safecuts)
+
+## Badger
+
+Notification badges. Reimagined.
+
+Badger is not on this repo, it's on Havoc. Please add [https://havoc.app](https://havoc.app) and buy Badger for $0.99.
 
 ## Pastcuts
 
 Import iOS 15 shortcuts on iOS 14 and iOS 13
 
-**Source:** [https://github.com/zachary7829/Pastcuts](https://github.com/zachary7829/Pastcuts)
+Pastcuts is no longer on this repo and has moved to Havoc. However, old versions are kept here for archival purposes. Still though, I would advise using the newest version available on Havoc.
+
+**Source:** [https://github.com/0xilis/Pastcuts](https://github.com/0xilis/Pastcuts)
 
 ### Changelog:
 

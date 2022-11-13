@@ -325,3 +325,17 @@ SHA256: 79a3265561fd3eaae7189c0dc22856d7298ca51c8ced1fe6300e14e87a750eae
 Description: Import iOS 16/15/14/13 shortcuts on iOS 12
 Name: Pastcuts12
 Author: Snoolie K
+
+Package: cum.0xilis.safecuts
+Name: Safecuts
+Author: Snoolie K
+Description: Fix iOS 15.0-15.3.1 hidden actions vuln
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
+Filename: ./debs/com.0xilis.safecuts_1.0.0_iphoneos-arm.deb
+Size: 5642
+MD5sum: 26bff3b25ea71320c38a8d16e29042bf
+SHA1: b416f7214fda7bdf714acae4909a9de577a6fbfd
+SHA256: a872bac32ee1d72db45f8a5ba35f6926fe904124f1fcba05bb97549c82740ca6
