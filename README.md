@@ -45,20 +45,6 @@ Pastcuts is no longer on this repo and has moved to Havoc. However, old versions
 
 Import iOS 16/15/14/13 shortcuts on iOS 12 and Workflow
 
-## Springlicious
-
-FOSS SpringBoard Customization Tweak
-
-**Source:** [https://github.com/zachary7829/Springlicious](https://github.com/zachary7829/Springlicious)
-
-### Changelog:
-
-**Springlicious 1.1:** Hide Dock's BG only, Status Bar Opacity, Battery Percent in battery symbol for notched devices, customizable battery colors, and more. Major update, lots of new features and bug fixes.
-
-**Springlicious 1.0.1:** Improvements to preferences and color management (thanks ryannair05!). Cephei should no longer be a dependency.
-
-**Springlicious 1.0.0:** First version.
-
 ## Importcuts
 
 Import .shortcut files, even when unjailbroken
@@ -76,31 +62,3 @@ Unhide the Get Variable action on iOS 13.0-14.4.2
 ## StopShortcutsUntitledPrompt
 
 Stop being forced to name shortcuts
-
-## NoYTAds
-
-**Source:** [https://github.com/zachary7829/NoYTAds](https://github.com/zachary7829/NoYTAds)
-
-No ads in YouTube
-
-## BypassZoomDetection
-
-**Source:** [https://github.com/zachary7829/BypassZoomDetection](https://github.com/zachary7829/BypassZoomDetection)
-
-Stop getting the "jailbreak detected" alert on Zoom
-
-## HideMyVPN
-
-**Source:** [https://github.com/zachary7829/HideMyVPN](https://github.com/zachary7829/HideMyVPN)
-
-Hides VPN from status bar (Note: Springlicious has this exact same funcitonality built in along with other options, I'd recommend switching to Spirnglicious)
-
-## NoPendingRequests
-
-**Source:** [https://github.com/zachary7829/NoPendingRequests](https://github.com/zachary7829/NoPendingRequests)
-
-Hide Pending Requests in insta (note: may not work anymore and I'm not updating this)
-
-## NoPromotedTweets
-
-No promoted tweets. Sadly only works in older versions of the twitter app.
