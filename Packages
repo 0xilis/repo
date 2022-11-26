@@ -334,7 +334,7 @@ Maintainer: Snoolie K
 Architecture: iphoneos-arm
 Section: Tweaks
 Version: 1.0.0
-Filename: ./debs/com.0xilis.safecuts_1.0.0_iphoneos-arm.deb
+Filename: ./debs/cum.0xilis.safecuts_1.0.0_iphoneos-arm.deb
 Size: 5642
 MD5sum: 26bff3b25ea71320c38a8d16e29042bf
 SHA1: b416f7214fda7bdf714acae4909a9de577a6fbfd
