@@ -55,8 +55,6 @@ Import iOS 16/15/14/13 shortcuts on iOS 12 and Workflow
 
 FOSS SpringBoard Customization Tweak
 
-**Source:** [https://github.com/zachary7829/Springlicious](https://github.com/zachary7829/Springlicious)
-
 ### Changelog:
 
 **Springlicious 1.1:** Hide Dock's BG only, Status Bar Opacity, Battery Percent in battery symbol for notched devices, customizable battery colors, and more. Major update, lots of new features and bug fixes.
@@ -85,25 +83,17 @@ Stop being forced to name shortcuts
 
 ## NoYTAds
 
-**Source:** [https://github.com/zachary7829/NoYTAds](https://github.com/zachary7829/NoYTAds)
-
 No ads in YouTube
 
 ## BypassZoomDetection
-
-**Source:** [https://github.com/zachary7829/BypassZoomDetection](https://github.com/zachary7829/BypassZoomDetection)
 
 Stop getting the "jailbreak detected" alert on Zoom
 
 ## HideMyVPN
 
-**Source:** [https://github.com/zachary7829/HideMyVPN](https://github.com/zachary7829/HideMyVPN)
-
 Hides VPN from status bar (Note: Springlicious has this exact same funcitonality built in along with other options, I'd recommend switching to Spirnglicious)
 
 ## NoPendingRequests
-
-**Source:** [https://github.com/zachary7829/NoPendingRequests](https://github.com/zachary7829/NoPendingRequests)
 
 Hide Pending Requests in insta (note: may not work anymore and I'm not updating this)
 
