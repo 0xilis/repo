@@ -3,9 +3,15 @@ My repository for my tweaks
 
 # Tweaks:
 
-# LetMePass
+## LetMePass
 
 Bypasses YouTube "Update Required" alert.
+
+### Changelog:
+
+**LetMePass 1.1:** Fix localization bugs.
+
+**LetMePass 1.0.0:** First version.
 
 **Source:** [https://github.com/0xilis/LetMePass](https://github.com/0xilis/LetMePass)
 
