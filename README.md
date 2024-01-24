@@ -3,6 +3,12 @@ My repository for my tweaks
 
 # Tweaks:
 
+# LetMePass
+
+Bypasses YouTube "Update Required" alert.
+
+**Source:** [https://github.com/0xilis/LetMePass](https://github.com/0xilis/LetMePass)
+
 ## Safecuts
 
 Fix iOS 15.0-15.3.1 shortcuts hide action vuln.
@@ -22,6 +28,8 @@ Notification badges. Reimagined.
 Badger is not on this repo at the moment, it's on Havoc. Please add [https://havoc.app](https://havoc.app).
 
 Semi-Open Source, tweak side is currently not, however BadgerApp is [https://github.com/0xilis/BadgerApp](https://github.com/0xilis/BadgerApp). BadgerPrefs also shows some of the preference handling tweak-side (which, just a warning, currently is the worst part of the entire source code, really need to rewrite it at some point...), look if you dare: [https://github.com/0xilis/BadgerPrefs](https://github.com/0xilis/BadgerPrefs).
+
+For Badger 1.2.2 Beta 5, reach out to me and I'll probably provide it to you.
 
 ## Pastcuts
 
