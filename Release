@@ -7,63 +7,17 @@ Architectures: iphoneos-arm
 Components: main
 Description: Repository for my tweaks
 MD5Sum:
- 108deac20341422a64f8ba1636b4d760 12475 Packages
- 20d4e62c6a8702c5414d26567e1f4e37 3439 Packages.bz2
- 16b24b62c63a0e4b4aad78d4f742a2a8 3124 Packages.xz
- 5f850c1adf43988d57806a60e398fc6d 3070 Packages.zst
+ 6864576a99633992928e3ac0243ce494 13725 Packages
+ ba9d0ef81a242ed54e4b619799f6f744 3721 Packages.bz2
+ 228c45f8f114075bb8011739dc0f0059 3424 Packages.xz
+ 7d4627fa1a43ba2d837769dff50f6245 3373 Packages.zst
 SHA1:
- 95e285625d4257e0b6d554aa8965463778eef716 12475 Packages
- 87799f30c0487df0bfaa47cef0998e80fe898893 3439 Packages.bz2
- 86a9eb5903ccb2af09642bdea8ea0d187b455b48 3124 Packages.xz
- 170e98145f0f24aa6e30ccb9e2ff9987bd118540 3070 Packages.zst
+ 3cf4611a3f0d5246faba9ad154431b3287e853fc 13725 Packages
+ 9701e42f426a0b16c05a36860631330f52fd9ba5 3721 Packages.bz2
+ 3152a285a0e7247f54fbe9e46025ae34537b7a16 3424 Packages.xz
+ 0aa18b23d45477a55dc5c731f398368e01d413cf 3373 Packages.zst
 SHA256:
- e444b0f2c8c2bd711d5954a1fdd020ebdfd68ef188f152b79f050e816de8af5f 12475 Packages
- cb3a71b45139cc77c6c43b9dda6500828767b0c63cba02e7aab42bb210849229 3439 Packages.bz2
- 6f8b77fcfecd6b8d25d7972883f88312e08b374f4fb65d13462f66ff382aa620 3124 Packages.xz
- 6fb8c26e594d4c645d9e12361231a65eafb84393aba07e5d74e58fa8723e4eaf 3070 Packages.zst
-Origin: 0xilis's repo
-Label: 0xilis's repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Repository for my tweaks
-MD5Sum:
- 78b714a9ed6f31524601eb04cef328d9 12893 Packages
- 20b6b0e2cf5ac24a92d45a478134c226 3525 Packages.bz2
- c6931e447a94c6a6f5fcfca6ba4885b6 3252 Packages.xz
- f98c0a2dc47d46220a323bbf61a41f2b 3195 Packages.zst
-SHA1:
- a4f841e6ad865458bbe7c803e37c0c48358fb542 12893 Packages
- 88912facb94055dd1095d75e096069f28592a307 3525 Packages.bz2
- cd966b20bb8384f3a5768f378246598723de7f7e 3252 Packages.xz
- eecf32d2a2121ac34fb12763c6a3c056761bf368 3195 Packages.zst
-SHA256:
- cd501cbaab896f4f6eaf8cebb4c22753276aa8b4cd8c373f23825a74f325d92a 12893 Packages
- e2a8e1d1ba4f4c0077330cc6d0820c16929e5799a85501696db490134b3044bc 3525 Packages.bz2
- 4c93239cec6e172df68712921296b56e991acf8a2ce7f87387e71803fd0dbbd6 3252 Packages.xz
- fb5508f25b085b100ae22d3627799c6b0ae9c76a39a26a45bb38b29f7cf161ae 3195 Packages.zst
-Origin: 0xilis's repo
-Label: 0xilis's repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Repository for my tweaks
-MD5Sum:
- 429dec8528d8fc64e69a653db1f00792 13309 Packages
- bad8525e1456f78939d1e0e95b1a52f5 3629 Packages.bz2
- 148f60b4ae534d8db2bfc9ea41235440 3336 Packages.xz
- 4628bf355761e712c01e1a2cfb1f3542 3281 Packages.zst
-SHA1:
- 3c584c0ee5739eefa35a1cc88385ce1d2a99d6bd 13309 Packages
- d8d793047e2fa3de1aaf9b55a2b3bf02e7794d71 3629 Packages.bz2
- 9e7d01fb4fdd2bd49ede40b1149d5f4e9b4dd341 3336 Packages.xz
- 4866f7c5943e5d77d64bab6f91570ad844aaa67f 3281 Packages.zst
-SHA256:
- fb9dc3dec09d34ece83397c9e38974d2831c4d28495710c20982ee4bd6c10091 13309 Packages
- 4ac8df3a85b5f7a17cc82c8ae70456d58b05023019ee22f871f128cdccb11599 3629 Packages.bz2
- 6a14b82bc64a23d7274280dfc5f8be01ebcc10cf7390abe99c66c0eee60c9f9e 3336 Packages.xz
- c9fbc834e7903fa404e78f976506480aa35215b998d90d867417e8dd8a1c7b71 3281 Packages.zst
+ d37a47107ef8383cda8f99a3c040d01f58ce26306cfcee82ad2aff5689c0aaf6 13725 Packages
+ 75e4b226e803b5be90e152b7439752d8c642704e1a1fcf4cf28cbd9dab5af322 3721 Packages.bz2
+ 7786f94f145dc3b4688c55fc0c403cea6adecfa9af2a7b42277d1de1fa97ee8e 3424 Packages.xz
+ 3666c2cbd9da659a7cb7e1601ddd71e89a3a6618a819808d9b0d45a6c9d3b581 3373 Packages.zst

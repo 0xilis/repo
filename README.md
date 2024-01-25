@@ -9,6 +9,8 @@ Bypasses YouTube "Update Required" alert.
 
 ### Changelog:
 
+**LetMePass 1.2:** Optimizations and bugfixes.
+
 **LetMePass 1.1:** Fix localization bugs.
 
 **LetMePass 1.0.0:** First version.
