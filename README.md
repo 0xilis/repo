@@ -9,6 +9,10 @@ Bypasses YouTube "Update Required" alert.
 
 ### Changelog:
 
+**LetMePass 1.4:** armv7 support.
+
+**LetMePass 1.3:** Even more optimized, plus iOS 10 support.
+
 **LetMePass 1.2:** Optimizations and bugfixes.
 
 **LetMePass 1.1:** Fix localization bugs.

@@ -395,3 +395,31 @@ Size: 2682
 MD5sum: c95f97e669f57a593e737903ab6c2d34
 SHA1: cd51097e10cb722ee2dcd8090a0bbb98a5bd20de
 SHA256: e3f6572a5d1c3a277b9cd512bd5e83f5f0c2a37df8f137574baaae74d3c8bbd6
+
+Package: com.0xilis.letmepass
+Name: LetMePass
+Author: Snoolie K
+Description: Bypass YouTube version alert
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.3
+Filename: ./debs/com.0xilis.letmepass_1.3_iphoneos-arm.deb
+Size: 2684
+MD5sum: 5bc54641056b946e27b78dce7a082f52
+SHA1: 5bf8f2d003f769204ec4cb2a65a9a145776c58fd
+SHA256: ea47b6dace4a86cef76bf3f96d4c8aa8058c1cb3670004d0f3e3a7496e714179
+
+Package: com.0xilis.letmepass
+Name: LetMePass
+Author: Snoolie K
+Description: Bypass YouTube version alert
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.4
+Filename: ./debs/com.0xilis.letmepass_1.4_iphoneos-arm.deb
+Size: 3356
+MD5sum: edcc708caeda74100d2faa28e128c883
+SHA1: 33857582361997f6b4f6e5217b3e19aae0c23c22
+SHA256: a781e71c86036d5852745db296208b3c7e4e7e12ed484c7ea55bf6885cb5cb05
