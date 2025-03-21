@@ -423,3 +423,32 @@ Size: 3356
 MD5sum: edcc708caeda74100d2faa28e128c883
 SHA1: 33857582361997f6b4f6e5217b3e19aae0c23c22
 SHA256: a781e71c86036d5852745db296208b3c7e4e7e12ed484c7ea55bf6885cb5cb05
+
+Package: com.0xilis.letmepass
+Name: LetMePass
+Author: Snoolie K
+Description: Bypass YouTube version alert
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.5
+Filename: ./debs/com.0xilis.letmepass_1.5_iphoneos-arm.deb
+Size: 3694
+MD5sum: d5dbd6ce6999cef8e456b9888f7f7db0
+SHA1: 97ecbffd7ec5f57339cd6452ff35b54e52afcc1a
+SHA256: 9535ff9de6630220e214c769d744142778793752626cb5790640d12f8b01e6c2
+
+Package: com.0xilis.appleid-key-dumper
+Name: appleid-key-dumper
+Author: Snoolie K
+Description: Dump Apple ID Keys and Certs for OpenAirdrop/shortcut-sign
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.0xilis.appleid-key-dumper_1.0.0_iphoneos-arm.deb
+Size: 5108
+MD5sum: 43b224e31afa61bf593639304573b620
+SHA1: 4321864fdba3047ac4436ed7de47dcefa82e5e5f
+SHA256: 065f93c5009fb95f5c4d9774fdf8eeafeb6898c7f8736b4b068234a00e0a269f
