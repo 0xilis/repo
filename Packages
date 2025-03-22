@@ -452,3 +452,18 @@ Size: 5108
 MD5sum: 43b224e31afa61bf593639304573b620
 SHA1: 4321864fdba3047ac4436ed7de47dcefa82e5e5f
 SHA256: 065f93c5009fb95f5c4d9774fdf8eeafeb6898c7f8736b4b068234a00e0a269f
+
+Package: com.0xilis.appleid-key-dumper
+Name: appleid-key-dumper
+Author: Snoolie K
+Description: Dump Apple ID Keys and Certs for OpenAirdrop/shortcut-sign
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.1
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.0xilis.appleid-key-dumper_1.1_iphoneos-arm.deb
+Size: 5164
+MD5sum: a2dcf388dea82792b700b5a322e4ee38
+SHA1: fcab00b6fe9bfda04cbde6a466dac3f1e7111f79
+SHA256: 5eb192db53bb811199f1aec87b2f06f62fccdaa29bfc1adfe05852bad41cdc9b
