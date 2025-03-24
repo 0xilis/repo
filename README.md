@@ -120,3 +120,31 @@ Hide Pending Requests in insta (note: may not work anymore and I'm not updating 
 ## NoPromotedTweets
 
 No promoted tweets. Sadly only works in older versions of the twitter app.
+
+# Tools:
+
+## shortcut-sign
+
+Open-Source Signed Shortcut CLI tool
+
+**Source:** [https://github.com/0xilis/shortcut-sign](https://github.com/0xilis/shortcut-sign)
+
+## appleid-key-dumper
+
+Apple ID Key/Cert dumper for jailbroken iOS. (For use in shortcut-sign)
+
+**Source:** [https://github.com/0xilis/appleid-key-dumper](https://github.com/0xilis/appleid-key-dumper)
+
+# Libraries:
+
+## libNeoAppleArchive
+
+Cross-compat library for parsing Apple Archive + Apple Encrypted Archive (.aar/.yaa/.aea).
+
+**Source:** [https://github.com/0xilis/libNeoAppleArchive](https://github.com/0xilis/libNeoAppleArchive)
+
+## libshortcutsign
+
+Library for signed shortcuts.
+
+**Source:** [https://github.com/0xilis/libshortcutsign](https://github.com/0xilis/libshortcutsign)

@@ -424,20 +424,6 @@ MD5sum: edcc708caeda74100d2faa28e128c883
 SHA1: 33857582361997f6b4f6e5217b3e19aae0c23c22
 SHA256: a781e71c86036d5852745db296208b3c7e4e7e12ed484c7ea55bf6885cb5cb05
 
-Package: com.0xilis.letmepass
-Name: LetMePass
-Author: Snoolie K
-Description: Bypass YouTube version alert
-Maintainer: Snoolie K
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.5
-Filename: ./debs/com.0xilis.letmepass_1.5_iphoneos-arm.deb
-Size: 3694
-MD5sum: d5dbd6ce6999cef8e456b9888f7f7db0
-SHA1: 97ecbffd7ec5f57339cd6452ff35b54e52afcc1a
-SHA256: 9535ff9de6630220e214c769d744142778793752626cb5790640d12f8b01e6c2
-
 Package: com.0xilis.appleid-key-dumper
 Name: appleid-key-dumper
 Author: Snoolie K
@@ -467,3 +453,50 @@ Size: 5164
 MD5sum: a2dcf388dea82792b700b5a322e4ee38
 SHA1: fcab00b6fe9bfda04cbde6a466dac3f1e7111f79
 SHA256: 5eb192db53bb811199f1aec87b2f06f62fccdaa29bfc1adfe05852bad41cdc9b
+
+Package: com.0xilis.libneoapplearchive
+Name: libNeoAppleArchive
+Author: Snoolie K
+Description: Cross-compat Open-Source library for parsing Apple Archive + Apple Encrypted Archive
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.1
+Depends: firmware (>= 7.0), openssl
+Filename: ./debs/com.0xilis.libneoapplearchive_0.0.1_iphoneos-arm.deb
+Tag: role::developer
+Size: 967658
+MD5sum: 1dc1046a1a91328db4df35fb4d18b46d
+SHA1: 8fe7760a5df7484c970f7305e02de04c44dc121e
+SHA256: adca899223f132a39c28d5d3749f1fb603e2f0289e07b353433ae99d28fb6140
+
+Package: com.0xilis.libshortcutsign
+Name: libshortcutsign
+Author: Snoolie K
+Description: Open-Source library for signed shortcuts.
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.1
+Depends: firmware (>= 7.0), openssl, libplist3, com.0xilis.libneoapplearchive
+Filename: ./debs/com.0xilis.libshortcutsign_0.0.1_iphoneos-arm.deb
+Tag: role::developer
+Size: 1063690
+MD5sum: 46d33d2ab94b5f12e170795d3d7d7be9
+SHA1: 68e3eaa55c3dc447038d299df6378b06cdea7f36
+SHA256: 56b6b8278e382bc8985896dfffdf18fa176084bcb6ff30db9e76afaba3580e6b
+
+Package: com.0xilis.shortcut-sign
+Name: shortcut-sign
+Author: Snoolie K
+Description: Open-Source Signed Shortcut CLI tool
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.1
+Depends: firmware (>= 7.0), com.0xilis.libshortcutsign, com.0xilis.libneoapplearchive
+Filename: ./debs/com.0xilis.shortcut-sign_0.0.1_iphoneos-arm.deb
+Size: 990300
+MD5sum: 8258b82d3a9ae7045d6a5a2454aea007
+SHA1: 96efe2ee38b450c1a52d12b43976f459a4f07344
+SHA256: d9c846d7d74631912e09a8ea59d1a351a775237ec60f966274ab533938cd50fd
