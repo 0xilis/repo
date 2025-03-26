@@ -500,3 +500,18 @@ Size: 990300
 MD5sum: 8258b82d3a9ae7045d6a5a2454aea007
 SHA1: 96efe2ee38b450c1a52d12b43976f459a4f07344
 SHA256: d9c846d7d74631912e09a8ea59d1a351a775237ec60f966274ab533938cd50fd
+
+Package: com.0xilis.neoaa
+Name: neoaa
+Author: Snoolie K
+Description: Open-Source Apple Archive CLI tool
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.1
+Depends: firmware (>= 7.0), com.0xilis.libneoapplearchive
+Filename: ./debs/com.0xilis.neoaa_0.0.1_iphoneos-arm.deb
+Size: 898494
+MD5sum: c9b9de40c80fbecb7ce9b32b2c4088c8
+SHA1: dca839685e57f6c40163e37289fe6ae224ffa53f
+SHA256: c477d7e242254ad4b46713d3d4192660d973d339507c848f5420a42d7d50c29e

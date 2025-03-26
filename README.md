@@ -129,6 +129,12 @@ Open-Source Signed Shortcut CLI tool
 
 **Source:** [https://github.com/0xilis/shortcut-sign](https://github.com/0xilis/shortcut-sign)
 
+## neoaa
+
+Open-Source Apple Archive CLI tool
+
+**Source:** [https://github.com/0xilis/neoaa](https://github.com/0xilis/neoaa)
+
 ## appleid-key-dumper
 
 Apple ID Key/Cert dumper for jailbroken iOS. (For use in shortcut-sign)
