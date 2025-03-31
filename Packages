@@ -470,6 +470,22 @@ MD5sum: 1dc1046a1a91328db4df35fb4d18b46d
 SHA1: 8fe7760a5df7484c970f7305e02de04c44dc121e
 SHA256: adca899223f132a39c28d5d3749f1fb603e2f0289e07b353433ae99d28fb6140
 
+Package: com.0xilis.libneoapplearchive
+Name: libNeoAppleArchive
+Author: Snoolie K
+Description: Cross-compat Open-Source library for parsing Apple Archive + Apple Encrypted Archive
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.2
+Depends: firmware (>= 7.0), openssl
+Filename: ./debs/com.0xilis.libneoapplearchive_0.0.2_iphoneos-arm.deb
+Tag: role::developer
+Size: 967026
+MD5sum: 38b1ed3cc0d5224f3b26e872055f302f
+SHA1: 4cb860780e95a88a6757f71d1b0330c627521200
+SHA256: 8d7dbb90256a9ac075aba1cfe35b5a242a2fa2e2de4268745429a0a308368488
+
 Package: com.0xilis.libshortcutsign
 Name: libshortcutsign
 Author: Snoolie K
@@ -486,6 +502,22 @@ MD5sum: 46d33d2ab94b5f12e170795d3d7d7be9
 SHA1: 68e3eaa55c3dc447038d299df6378b06cdea7f36
 SHA256: 56b6b8278e382bc8985896dfffdf18fa176084bcb6ff30db9e76afaba3580e6b
 
+Package: com.0xilis.libshortcutsign
+Name: libshortcutsign
+Author: Snoolie K
+Description: Open-Source library for signed shortcuts.
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.2
+Depends: firmware (>= 7.0), openssl, libplist3, com.0xilis.libneoapplearchive
+Filename: ./debs/com.0xilis.libshortcutsign_0.0.2_iphoneos-arm.deb
+Tag: role::developer
+Size: 973994
+MD5sum: 36bef418493ebce7077b625cb0246d08
+SHA1: 05051067fe80cd29122e9f5cd7961d41a3317909
+SHA256: e00611a38c82b9766110929ee873707c6d68fa5d0f8a3f3f4e843618167683ec
+
 Package: com.0xilis.shortcut-sign
 Name: shortcut-sign
 Author: Snoolie K
@@ -500,6 +532,21 @@ Size: 990300
 MD5sum: 8258b82d3a9ae7045d6a5a2454aea007
 SHA1: 96efe2ee38b450c1a52d12b43976f459a4f07344
 SHA256: d9c846d7d74631912e09a8ea59d1a351a775237ec60f966274ab533938cd50fd
+
+Package: com.0xilis.shortcut-sign
+Name: shortcut-sign
+Author: Snoolie K
+Description: Open-Source Signed Shortcut CLI tool
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: System
+Version: 0.0.2
+Depends: firmware (>= 7.0), com.0xilis.libshortcutsign, com.0xilis.libneoapplearchive
+Filename: ./debs/com.0xilis.shortcut-sign_0.0.2_iphoneos-arm.deb
+Size: 904356
+MD5sum: 743a6e4d55e9d8381861e1e6ca4c39d5
+SHA1: 9a119171a7407c6cabd7d0b8a37623d379390c22
+SHA256: ae72770692eb04450df69259023f52ff37136ec7f63967ee3d5c385b3ba72d8d
 
 Package: com.0xilis.neoaa
 Name: neoaa
